@@ -1,0 +1,49 @@
+
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box;
+
+}
+:root{
+    --primary-colour:#2E382E;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--primary-colour);
+    justify-content: center;
+    justify-items: center;
+
+}
+.box{
+    width: fit-content;
+    background-color: white;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 10px;
+    
+
+}
+img{
+    object-fit: cover;
+}
+.Product-name{
+    font-size: 25px;
+    font-weight: 600;
+
+}
+span{
+    display: block;
+}
+.actual-price{
+    font-size: 20px;
+    font-weight: 500;
+    color: red;
+}
+.disount-price{
+    font-size: 20px;
+    font-weight: 100;
+    text-decoration: line-through;
+    color: rgba(25, 3, 13, 0.584);
+}

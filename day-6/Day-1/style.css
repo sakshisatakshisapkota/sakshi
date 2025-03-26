@@ -1,0 +1,36 @@
+/* @import url();
+*{
+    margin: 400;
+    width: 400;
+    box-sizing: border-box;
+}
+.box{
+    height:200px ;
+    width: 200px;
+    background-color:blue ;
+    padding: 30px;
+    margin: 20px;
+    border: 10px;
+
+}
+    .second-box{
+        height: 100px;
+        width: 100px;
+        background-color:purple ;
+        padding: 15px;
+        margin: 10;
+        border: 5px;
+
+    }  
+.container{
+    height: 100vb;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: center;
+
+}
+.green-box{
+    background-color: green;
+}
+ */

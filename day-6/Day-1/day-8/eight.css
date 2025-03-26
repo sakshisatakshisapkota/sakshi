@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr) ;
+    gap: 10px;
+}
+.child{
+    height: 400px;
+
+    background-color: brown;
+}
+.green{
+    background-color: rgba(21, 194, 194, 0.573);
+}

@@ -1,0 +1,16 @@
+ .main-cointer{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(188, 138, 72);
+    display: flex;
+    gap: 20px;
+    
+}
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(42, 42, 201);
+    margin: 10px;
+
+    
+}
